@@ -1,9 +1,6 @@
 # nuggets
 Any helpful tidbit of information that I want to be able to find later.
 
-# nuggets
-Any helpful tidbit of information that I want to be able to find later.
-
 ## bash
 
 make `ls` more colorful
