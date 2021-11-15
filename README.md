@@ -3,7 +3,7 @@ Any helpful tidbit of information that I want to be able to find later.
 
 ## Git
 
-# branches
+### branches
 delete a branch remotely and locally
 ```
 git push -d <remote_name> <branchname>
@@ -11,7 +11,7 @@ git branch -d <branchname>
 ```
 
 
-aliases
+### aliases
 ```
 [alias]
   s = status
