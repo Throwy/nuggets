@@ -12,6 +12,7 @@ git branch -d <branchname>
 
 
 ### aliases
+set these in your global `.gitconfig` file
 ```
 [alias]
   s = status
