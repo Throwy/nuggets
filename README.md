@@ -6,6 +6,8 @@ aliases
 ```
 [alias]
   s = status
+  sb = status -sb
+  cm = commit -m
   co = checkout
   cob = checkout -b
   br = branch --format='%(HEAD) %(color:yellow)%(refname:short)%(color:reset) - %(contents:subject) %(color:green)(%(committerdate:relative)) [%(authorname)]' --sort=-committerdate
